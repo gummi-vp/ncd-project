@@ -50,4 +50,4 @@ near call <contract-id> standCard --account_id <account-id>
 ```
 near call <contract-id> getWinStreak '{"playerName": "<playerName>"}' --account_id <account-id>
 ```
-playerName --> Sender's accound ID
+playerName --> Sender's account ID
