@@ -4,7 +4,7 @@ This project is a card game similar to blackjack, played against the computer (d
 
 ## Cloning The Project
 ```
-git clone https://github.com/gummi-vp/draco-card-game.git
+git clone https://github.com/gummi-vp/near-draco-card-game.git
 ```
 After cloning the project
 ```
