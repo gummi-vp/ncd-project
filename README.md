@@ -22,3 +22,31 @@ accountId --> Which is generated after the contract deployment
 
 ## Functions
 
+### playGame
+Player calls the playGame function to start the game.
+
+```
+near call <contract-id> playGame --account_id <account-id>
+```
+
+### getCard
+If player wants to get a new card, player calls the getCard function.
+
+```
+near call <contract-id> getCard --account_id <account-id>
+```
+
+### standCard
+If player wants to continue with the cards in his hand, player calls the standCard function.
+
+```
+near call <contract-id> standCard --account_id <account-id>
+```
+
+### getWinStreak
+- Takes ***playerName*** as a parameter
+- Returns the player's highest winning streak in the game
+
+```
+near call <contract-id> getWinStreak '{"playerName": "<playerName>"}' --account_id <account-id>
+```
