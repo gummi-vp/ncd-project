@@ -1,4 +1,4 @@
-### Enviroment
+## Enviroment
 
 The scripts in this folder are designed to help you demonstrate the behavior of the contract(s) in this project.
 
@@ -11,7 +11,7 @@ The scripts in this folder are designed to help you demonstrate the behavior of 
   # export OWNER=gummi.testnet
 ```
 
-### Commands
+## Commands
 
   _helper scripts_
 
