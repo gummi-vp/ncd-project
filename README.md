@@ -51,3 +51,7 @@ near call <contract-id> standCard --account_id <account-id>
 near call <contract-id> getWinStreak '{"playerName": "<playerName>"}' --account_id <account-id>
 ```
 playerName --> Sender's account ID
+
+## Loom Video
+
+https://www.loom.com/share/835b14c70091458bbd148935ff2a8d08
